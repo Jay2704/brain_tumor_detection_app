@@ -54,3 +54,14 @@ To run this project locally, follow these steps:
    ```sh
    git clone https://github.com/your-username/brain-tumor-detection.git
    cd brain-tumor-detection
+
+2.	**Machine Learning Model**:
+	•	Open the MDP Project.ipynb file in Jupyter Notebook.
+	•	Follow the instructions to preprocess the data, train the model, and export the TensorFlow Lite model.
+
+3.	**Android Application**:
+	•	Open the project in Android Studio.
+	•	Place the model.tflite file in the appropriate directory (app/src/main/assets/).
+	•	Connect an Android device or start an emulator.
+	•	Build and run the application on the device or emulator.
+
