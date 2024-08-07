@@ -1,0 +1,2 @@
+rootProject.name = "Brain Tumor Detection MDP Project"
+include ':app'
